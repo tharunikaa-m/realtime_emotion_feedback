@@ -181,7 +181,7 @@ The frontend provides the interview interface, webcam interaction, results, anal
 
 The Flask backend handles interview sessions, webcam frames, answer evaluation, scoring, database operations, and dashboard data.
 ---
-## Outcome
+## Outcomes
 
 The project provides a complete web-based interview practice environment that evaluates multiple aspects of candidate performance and generates an overall score with actionable feedback.
 
@@ -195,6 +195,26 @@ It helps candidates identify areas such as:
 - Overall interview performance
 ----
 ## Screenshots
+## Application Screenshots
+
+### 1. Login Interface
+![Login Page](login.png)
+
+### 2. Emotion Detection
+![Emotion Detection](interview.png)
+
+### 3. Answer Evaluation
+![Answer Evaluation](analysis.png)
+
+### 4. Interview Results
+![Interview Results](analysis_II.png)
+
+### 5. Performance Analytics
+![Performance Analytics](performance_dashboard.png)
+
+### 6. Score Comparison
+![Score Comparison ](score_comparison.png)
+---
 
 ## Future Enhancements
 
